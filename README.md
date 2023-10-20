@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=ShibinSk&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-I'm currently working on brototype as an intern<br>I'm looking to collaborate on MERN projects.<br>I’m interested in Full Stack Web Development(MERN)<br><br>
+I'm currently working on computer valley as an software developer<br>I'm looking to collaborate on MERN projects.<br>I’m interested in Full Stack Web Development(MERN)<br><br>
 
 
 ## 🌐 Socials:
